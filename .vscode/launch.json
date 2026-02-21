@@ -1,0 +1,191 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Data",
+            "request": "launch",
+            "mainClass": "polimorphism.Data",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "collection.Main",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "ChinheritancesDemo",
+            "request": "launch",
+            "mainClass": "object.ChinheritancesDemo",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "Staff",
+            "request": "launch",
+            "mainClass": "oop.Staff",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "inheritan",
+            "request": "launch",
+            "mainClass": "oop.inheritan",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "oop.Employee",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "java6.index",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "index$Main",
+            "request": "launch",
+            "mainClass": "java6.index$Main",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "public_modifier",
+            "request": "launch",
+            "mainClass": "json.acess_modifer.public_modifier",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "protect_modifter",
+            "request": "launch",
+            "mainClass": "json.acess_modifer.protect_modifter",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "default_modifter",
+            "request": "launch",
+            "mainClass": "json.acess_modifer.default_modifter",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "private_modifter",
+            "request": "launch",
+            "mainClass": "json.acess_modifer.private_modifter",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "Dashboard$Login",
+            "request": "launch",
+            "mainClass": "function.Dashboard$Login",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "Dashboard",
+            "request": "launch",
+            "mainClass": "function.Dashboard",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "MethodExample",
+            "request": "launch",
+            "mainClass": "java4.MethodExample",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "stringArray",
+            "request": "launch",
+            "mainClass": "java4.stringArray",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "java5.java1.index",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "index7",
+            "request": "launch",
+            "mainClass": "java5.java.index7",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "index6",
+            "request": "launch",
+            "mainClass": "java5.java.index6",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "index5",
+            "request": "launch",
+            "mainClass": "java5.java.index5",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "index4",
+            "request": "launch",
+            "mainClass": "java5.java.index4",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "index3",
+            "request": "launch",
+            "mainClass": "java5.java.index3",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "index2",
+            "request": "launch",
+            "mainClass": "java5.java.index2",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "index1",
+            "request": "launch",
+            "mainClass": "java5.java.index1",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "name": "Python Debugger: Current File with Arguments",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": "${command:pickArgs}"
+        }
+    ]
+}
