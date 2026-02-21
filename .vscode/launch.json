@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "management.Main",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "management.Employee",
+            "projectName": "Sa Sokgim_3fb63795"
+        },
+        {
+            "type": "java",
             "name": "Data",
             "request": "launch",
             "mainClass": "polimorphism.Data",
